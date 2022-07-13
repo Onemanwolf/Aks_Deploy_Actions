@@ -6,7 +6,7 @@ env:
   CLUSTER_NAME: timotaksaction
   CLUSTER_RESOURCE_GROUP: timot-rg
   NAMESPACE: timot
-  SECRET: {secret-name}
+  SECRET: secret
   APP_NAME: myapi
   
 jobs:
